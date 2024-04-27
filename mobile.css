@@ -1,0 +1,39 @@
+
+@media screen and (max-width: 768px) {
+    .inner-panel{
+        font-size: 10px;
+    }
+    img{
+        width:300px;
+        height: 100%;
+        
+    }
+    .contact .CT{
+        font-size: small;
+    }
+    .btn {
+        
+        background-color: rgb(122, 128, 170);
+        color: white;
+        border: none;
+        border-radius: 5px;
+        height: 30px;
+        width: 150px;
+        font-size: 12px;
+        cursor: pointer; 
+    }
+    .logo{
+        display: none;
+    }
+    .Appointments {
+        height: 300px;
+        background-image: url("https://lirp.cdn-website.com/269e3643/dms3rep/multi/opt/happy-black-female-patient-looking-at-mirror-min-1920w.jpg");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+    
+    
+    }
+    
+}

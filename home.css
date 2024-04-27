@@ -1,0 +1,1499 @@
+* {
+    box-sizing: border-box;
+    font-style: normal;
+    font-family: Muli;
+    justify-content: center;
+    padding: 0px;
+    scroll-behavior: smooth;
+
+
+
+}
+
+.top-panel {
+    background-color: rgb(122, 128, 170);
+    height: 2.5em;
+    width: 100%;
+
+}
+
+.inner-panel {
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-size: 17px;
+    padding-top: 5px;
+    font-weight: bold;
+
+
+}
+
+
+
+.blue {
+    color: rgb(76, 186, 76);
+}
+
+.logo {
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    background-color: #fff;
+    font-size: medium;
+    width: 100%;
+
+
+}
+
+
+
+.btn {
+    padding: 10px;
+    background-color: rgb(122, 128, 170);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 60px;
+    width: 240px;
+    font-size: 19px;
+    cursor: pointer;
+
+
+
+}
+
+.btn:hover {
+    background-color: #555590;
+    color: white;
+}
+
+
+.Buckland:hover {
+    transform: scale(1.1);
+    transition: ease-in-out 0.5s;
+
+
+}
+
+
+.contact,
+.CT {
+    font-size: larger;
+    padding-top: 15px;
+}
+
+Appointments {
+
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    position: relative;
+    top:165px;
+
+}
+
+.overlay {
+
+    width: 100%;
+    height: 100%;
+    background-color: rgb(3 3 21 / 40%);
+    padding: 30px 10%;
+
+
+
+
+
+}
+
+.About {
+    width: 100%;
+    height: 110vh;
+    justify-content: right;
+    align-items: start;
+    background-color: transparent;
+    display: flex;
+
+
+
+
+
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    padding-top: 20px;
+    display: flex;
+    background-color: transparent;
+
+}
+
+.learn {
+    background-color: rgba(122, 128, 170, 1);
+    height: 100%;
+    width: 700px;
+    border-radius: 23px;
+    color: white;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0 3px 11px 0;
+    background-image:url(himg/ttps://lirp.cdn-website.com/md/dmip/dms3rep/multi/opt/light-diagonal-stripe-1920w.png);
+}
+
+.learn h1 {
+    font-size: 70px;
+    padding-top: 20px;
+    font-family: Alice, "Alice Fallback";
+    font-weight: 400;
+}
+
+.learn p {
+    padding-right: 45px;
+    line-height: 2;
+    padding-left: 50px;
+    font-weight: 400;
+}
+
+.associate {
+    padding: auto;
+    margin-left: -30px;
+    height: 80%;
+    width: 600px;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: start;
+    padding-top: 20px;
+    filter: drop-shadow(1px 3px 3px rgba(0 0 0 / 70%));
+}
+
+.dev {
+    height: 100%;
+    width: 300px;
+
+}
+
+.dev1 {
+    height: 100%;
+    width: 300px;
+
+
+}
+.dev2{
+    height: 100%;
+    width: 100%;
+    background-color: #008080;
+}
+
+.div1 {
+    height: 40%;
+    width: 300px;
+    overflow: hidden;
+    border-radius: 12px;
+
+
+
+}
+div1 img{
+    transition: 0.5s all ease-in-out;
+    width: 100%;
+}
+div1:hover img{
+    transform: scale(1.1);
+    transition: ease 0.2s;
+}
+
+.div2 {
+    height: 60%;
+    width: 300px;
+    overflow: hidden;
+    padding-top: 10px;
+
+
+
+
+}
+
+.div3 {
+    height: 53%;
+    width: 300px;
+    padding-left: 10px;
+    overflow: hidden;
+
+}
+
+.div4 {
+    height: 40%;
+    width: 300px;
+    padding-top: 10px;
+    padding-left: 10px;
+    overflow: hidden;
+
+}
+
+.dev img {
+    border-radius: 5px;
+
+}
+
+.dev1 img {
+
+    border-radius: 5px;
+
+}
+
+.dev img:hover {
+    transform: scale(1.1);
+    transition: 0.2s all ease-in-out;;
+
+
+}
+
+.buttons {
+    display: flex;
+    column-gap: 25px;
+
+
+
+}
+
+.btn3 {
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    font-weight: bold;
+    border: 2px solid whitesmoke;
+}
+
+.btn3:hover {
+    background-color: rgb(13, 85, 13);
+    border: none;
+}
+
+.btn2 {
+    background-color: #4db2b0;
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+
+}
+
+.btn2:hover {
+    background-color: green;
+}
+
+.Appointments {
+    height: 800px;
+    background-image: url("https://lirp.cdn-website.com/269e3643/dms3rep/multi/opt/happy-black-female-patient-looking-at-mirror-min-1920w.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    position: relative;
+    top:165px;
+
+
+}
+
+
+.nav {
+
+    background-color: whitesmoke;
+    height: 50px;
+    width: 100%;
+
+}
+
+.navbar {
+    text-decoration: none;
+    padding-left: 45px;
+    padding: auto;
+    justify-content: space-around;
+    display: flex;
+    padding-top: 15px;
+    padding-right: 20px;
+    text-align:center;
+}
+
+.navbar li {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding-left: 40px;
+
+
+
+}
+
+.navbar li a:hover {
+    color: aquamarine;
+}
+
+.details {
+    color: whitesmoke;
+    align-items: center;
+    justify-content: center;
+    padding-top: 130px;
+    padding-left: 80px;
+    padding-bottom: 200px;
+    padding-right: 80px;
+
+}
+
+.h1 {
+
+    align-items: center;
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: Alice, "Alice Fallback";
+    font-size: 90px;
+    font-weight: bold;
+
+
+}
+
+.partners {
+    background-color: white;
+    padding: 30px 20px;
+
+
+}
+
+.partners-child {
+    column-gap: 2.5%;
+    display: flex;
+
+}
+.partners-bottom{
+    height: 40px;
+    width: 100px;
+    background-color: #64d2c5;
+}
+
+.child img:hover {
+    transition: 1s ease;
+    transform: scale(1.1);
+}
+
+.divider {
+    border-top: 4px solid #bbb;
+    width: 15%;
+    border-top-width: 1px;
+    border-width: 2px;
+    border-top-style: solid;
+    color: grey;
+
+}
+
+.p {
+    line-height: 2;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 18px;
+
+}
+
+.child {
+    width: 20%;
+
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+
+    padding: 5px;
+    align-items: center;
+    row-gap: 10px;
+}
+
+.child img {
+    height: 50px;
+    width: 100px;
+
+
+}
+
+.child p {
+    font-family: Alice, 'Alice Fallback';
+    font-weight: normal;
+    color: black;
+    font-size: 18px;
+    line-height: initial;
+    text-align: center;
+}
+
+.doctors {
+    height: 1000px;
+    width: 100%;
+    background-image: url("img/BucklandHillsDental.webp");
+    background-position: center;
+    background-size: cover;
+
+}
+
+.doctors-overlay {
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(10px);
+   /* background-color: rgb(0, 0, 0, 0.2);*/
+    
+
+}
+.card-img-top{
+            height: 500px;
+            width:510px;
+            margin-left:45px;
+            margin-top: 70px;
+
+           
+        }
+        .card{
+            background-color: rgb(255, 255, 255);
+            width:600px;
+            margin-left:30px;
+            height: 750px;
+            border-radius: 10px;
+            
+        }
+        .btn-primary{
+            margin-left:130px;
+            width: 300px;
+            height: 50px;
+            align-items: center;
+            justify-content: center;
+            padding-top: 10px;
+            font-size: 16px;
+            font-weight: bold;
+            word-spacing: 2px;
+            font-family: muli;
+            margin-bottom: 32px;
+        }
+   
+        .card-title{
+            margin-left: 33px;
+            font-family: Alice, "Alice Fallback";
+            font-weight: bold;
+            font-size: 36px;
+            text-align: center;
+
+        }
+        .card-text{
+            color:rgb(29, 162, 78);
+            font-size: large;
+            text-align: center;
+            font-size: 24px;
+            
+        }
+
+.word {
+    align-items: center;
+    justify-content: center;
+    height:80%;
+    width: 100%;
+    display: flex;
+    
+
+}
+
+.inner-word {
+    color: white;
+    background-color: transparent;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    font-size: 60px;
+    font-family: alice;
+    padding-top:100px;
+    font-weight: bolder;
+}
+
+
+
+
+
+.navbar {
+    background-color: whitesmoke;
+}
+
+.navbar-nav .nav-link {
+    color: rgb(0, 0, 0);
+}
+
+.navbar-nav .nav-item:hover .nav-link {
+    color: rgb(147, 214, 192);
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: black;
+}
+
+.nav-item:hover .dropdown-menu {
+    display: block;
+}
+
+.btn45 {
+    height: 200px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    column-gap: 4%;
+    padding-bottom: 90px;
+
+
+}
+
+.btn4 {
+    padding: 10px;
+    background-color: rgb(122, 128, 170);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 60px;
+    width: 270px;
+    font-size: 19px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn4:hover {
+    background-color: #515195;
+}
+
+.btn5 {
+    padding: 10px;
+    background-color: #4db2b0;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 60px;
+    width: 270px;
+    font-size: 19px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn5:hover {
+    background-color: #358f8e;
+}
+
+.dental-implant {
+    height: 800px;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 23px;
+
+
+
+}
+
+.upper {
+    text-align: center;
+    font-family: Alice, "Alice Fallback";
+    font-size: 120px;
+    font-weight: bold;
+    padding-top: 40px;
+
+}
+
+.dental1 {
+
+    height: 80%;
+    width: 660px;
+    border-radius: 23px;
+    color: black;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 12px;
+
+}
+
+.dental1 p {
+    line-height: 2;
+}
+
+.dental2 {
+    background-color: #515195;
+    height: 80%;
+    width: 660px;
+    border-radius: 23px;
+    color: white;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.dental2 video {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 23px;
+
+}
+
+.dental {
+    height: 90%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    column-gap: 20px;
+}
+
+.den1 {
+    width: 100%;
+    height: 25%;
+    
+    padding-bottom: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-radius: 7px;
+    border-bottom:rgba(87,182,178,1) 2px solid;
+    filter: drop-shadow(0px 0px 5px rgba(0 0 0 / 30%));
+    background-color:rgba(247,247,247,1);
+}
+
+.den2 {
+    width: 100%;
+    height: 25%;
+
+    padding-bottom: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-radius: 7px;
+    border-bottom:rgba(87,182,178,1) 2px solid;
+    filter: drop-shadow(0px 0px 5px rgba(0 0 0 / 30%));
+    background-color:rgba(247,247,247,1);
+    
+}
+
+.den3 {
+    width: 100%;
+    height: 30%;
+
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-radius: 7px;
+    border-bottom:rgba(87,182,178,1) 2px solid;
+    background-color:rgba(247,247,247,1);
+    filter: drop-shadow(0px 0px 5px rgba(0 0 0 / 30%));
+}
+
+.fav {
+    height: 100%;
+    width: 20%;
+}
+
+.fav-p {
+    padding: 1px;
+    align-self: center;
+    text-align: start;
+    padding-left: 50px;
+    text-justify: distribute-all-lines;
+    word-spacing: 5px;
+    padding-top: 10px;
+}
+
+.services {
+    height: 1100px;
+    width: 100%;
+    align-items: center;
+    padding-top: 45px;
+    justify-content: space-around;
+    padding-left: 160px;
+    padding-right: 20px;
+
+   
+
+
+
+}
+
+.top-services {
+    background-color:rgba(87,182,178,1);
+    width: 90%;
+    height: 350px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 40px;
+    border-radius: 17px;
+    background-image: url("img/https://lirp.cdn-website.com/md/dmip/dms3rep/multi/opt/light-diagonal-stripe-1920w.png");
+
+}
+
+.bottom-services {
+    width: 90%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    column-gap: 2%;
+    flex-wrap: wrap;
+    transform:translateY(-50px)
+
+
+
+
+}
+
+.top-services h1 {
+    color: white;
+    font-weight: bolder;
+    font-family: Alice, "Alice Fallback";
+    font-size: 70px;
+
+}
+
+.top-services h3 {
+    font-size: 20px;
+    color: #515195;
+
+}
+
+.top-services p {
+    font-size: 14px;
+    line-height: 2;
+
+
+}
+
+.bottom {
+    background-color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+    height: 280px;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-bottom: 3px solid rgb(122, 128, 170);
+}
+
+.btn6 {
+    height: 50px;
+    width: 230px;
+    border-radius: 5px;
+    background-color: rgb(122, 128, 170);
+    color: white;
+    margin-top: 50px;
+    font-weight: bold;
+    
+   
+   
+
+}
+
+.bs {
+    height: 3%;
+    margin-right: 11px;
+    margin-bottom: 30px;
+}
+.bs img{
+    height:50px;
+    width: 60px;
+
+}
+.bs1 {
+    height: 5%;
+    width: 10%;
+    margin-right: 80px;
+
+}
+
+.bs2 {
+    height: 10%;
+    width: 10%;
+}
+
+.credit {
+    margin-bottom: 50px;
+    overflow: hidden;
+    display: flex;
+    width: 50%;
+}
+.credit img{
+    height: 500px;
+    background-position:top;
+}
+
+.credit1 {
+    height: 450px;
+    background-color:rgb(122, 128, 170);
+    width: 50%;
+    background-image:url(himg/ttps://lirp.cdn-website.com/md/dmip/dms3rep/multi/opt/light-diagonal-stripe-1920w.png);
+}
+
+.care {
+    height: 500px;
+    width: 100%;
+
+    display: flex;
+}
+
+.review {
+
+    width: 100%;
+    height: 100%;
+    padding-top: 20px;
+    display: flex;
+  
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.reviews {
+    width: 100%;
+    height: 110vh;
+    background-color:rgba(247,247,247,1);
+
+}
+
+.review-pic {
+    background-color: rgb(131, 155, 211);
+    height: 75%;
+    width: 600px;
+    border-radius: 23px;
+    color: white;
+    background-image: url("img/BucklandHillsDental.webp");
+    background-size: cover;
+    padding-top: 20px;
+    padding-right: 100px;
+    filter: blur(2px); 
+    overflow: hidden;
+
+}
+
+.review-p {
+    padding: auto;
+    margin-left: -100px;
+    height: 70%;
+    width: 650px;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    position: relative;
+    row-gap: 20px;
+    flex-direction: column;
+
+}
+
+
+.statements {
+    width: 100%;
+    height: 160px;
+    border: 1px solid gainsboro;
+    padding: 10px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-radius: 7px;
+    border-bottom: #555590 2px solid;
+    filter: drop-shadow(0px 0px 5px rgba(0 0 0 / 30%));
+    background-color:rgba(247,247,247,1);
+    
+}
+.statements h6{
+    color: #515195;
+    font-size: 18px;
+    margin-bottom: 60px;
+
+    
+}
+
+.review-pic-overlay {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(255, 255, 255,.0); /* Adjust the overlay color and opacity as needed */
+    backdrop-filter: blur(1px);
+    overflow: hidden;
+
+}
+.top-reviews{
+    display: flex;
+    background-color: #8f4db2;
+    width:90%;
+    margin-left: 30px;
+    padding-left: 90px;
+    align-items: center;
+    
+    
+}
+.top-reviews p{
+    font-size: 40px;
+
+
+}
+.top-reviews button{
+    height: 50px;
+    width: 300px;
+    margin-left: 25px;
+    font-size: 20px;
+    
+}
+
+.rev {
+    height: 55%;
+    width: 33%;
+    background-color: aqua;
+    transform: translateY(-135%);
+    margin-left: 70px;
+
+}
+
+.blog {
+    width: 100%;
+    height: 800px;
+    background-color:rgb(225, 224, 224);;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-left: 150px;
+
+
+}
+
+.blog-div {
+    width: 90%;
+    height: 650px;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    border-bottom: 2px solid #64d2c5;
+    background-color: whitesmoke;
+    margin-bottom: 10px;
+}
+
+.blog-div h1 {
+    font-size: 70px;
+    font-weight: bolder;
+    font-family: Alice, "Alice Fallback";
+    color: black;
+
+}
+
+.cardi{
+
+    height: 450px;
+    width: 90%;
+    display: flex;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+    margin-left: 50px;
+    justify-content: space-between;
+
+
+}
+
+.cards {
+    background-color: #555590;
+    height: 420px;
+    width: 40%;
+    border-radius: 12px;
+    color: white;
+    
+
+}
+
+.cards img {
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+}
+
+.cards img:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+
+}
+.cards h6{
+    padding-left: 12px;
+    padding-top: 12px;
+    font-size: 1.1rem;
+    text-align: start;
+}
+
+.cards p {
+    padding-left: 12px;
+    font-size: 15px;
+    text-align: start;
+    color: rgba(255,255,255,1);
+
+}
+
+.btn7 {
+    width: 100%;
+    height: 50px;
+}
+
+.btn7 button {
+    height: 50px;
+    width: 250px;
+    border-radius: 5px;
+    background-color: #515195;
+    color: white;
+    font-weight: bold;
+
+
+}
+
+.btn8 {
+    height: 50px;
+    width: 250px;
+    border-radius: 5px;
+    background-color: #427861;
+    color: white;
+    font-weight: bold;
+
+}
+
+.credit1 p,
+h3 {
+    padding-left: 40px;
+    padding-top: 40px;
+    color: white;
+}
+
+.credit1 h3 {
+    font-size: 60px;
+    font-family: alice;
+    padding-top: 100px;
+
+}
+
+.credit1 p {
+    line-height: 2;
+
+}
+
+.insurance {
+    width: 100%;
+    background-color: rgb(114, 49, 49);
+    padding: 25px 10%;
+    height: 200px;
+}
+
+.insurance-div {
+    background-color: rgb(39, 106, 118);
+    column-gap: 20%;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    row-gap: 30px;
+    height: 100px;
+    white-space: nowrap;
+    animation: scrollingText 10s linear infinite;
+}
+
+.insurance-div img {
+    width: 11%;
+    filter: grayscale(100%);
+    transition: .3s;
+    cursor: pointer;
+
+}
+
+.insurance-div img:hover {
+    filter: grayscale(0);
+    transform: scale(1.1);
+
+}
+
+.insurance p {
+    align-items: center;
+    color: white;
+    padding-left: 400px;
+}
+
+    
+@keyframes insurance-div {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+}
+.request{
+    width: 100%;
+    height: 900px;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    
+    
+
+}
+.request-div{
+    width: 100%;
+    height: 750px;
+    background-color: #4db2b0;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    column-gap: 10px;
+}
+.inner-request{
+background-color: rgba(122, 128, 170, 1);
+height: 100%;
+width: 630px;
+border-radius: 23px;
+color: white;
+display: block;
+padding-top: 20px;
+background-image:url(himg/ttps://lirp.cdn-website.com/md/dmip/dms3rep/multi/opt/light-diagonal-stripe-1920w.png);
+}
+.inner-request2{
+background-color: rgba(122, 128, 170, 1);
+height: 100%;
+width: 630px;
+border-radius: 23px;
+color: white;
+display: block;
+padding-top: 20px;
+}
+.inner-request h2{
+display: block;
+padding-top: 30px;
+text-align: start;
+padding-left: 40px;
+font-size: 50px;
+}
+.inner-request p{
+padding-left: 40px;
+font-size: 22px;
+line-height: 1;
+}
+.input0{
+    background-color:transparent;
+    width: 100%;
+    height:270px;
+    margin-left: 15px;
+    display: flex;
+
+}
+.input1{
+    width: 50%;
+    height: 100%;
+    background-color:transparent;
+    padding-left: 20px;
+    align-items: center;
+
+}
+.input2{
+    width: 45%;
+    height: 100%;
+    background-color:transparent;
+
+}
+label{
+    display: block;
+    
+
+}
+input, select {
+        width:90%;
+        padding: 8px;
+        margin-top: 2px;
+        margin-bottom: 5px;
+        box-sizing: border-box;
+        padding-left: 20px;
+    }
+    button {
+        background-color: #4db2b0;
+        color: #fff;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    
+        height: 50px;
+    
+    }
+    
+    .btn9,.btn8{
+        background-color: #4db2b0;
+        color: #fff;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-left:50px;
+        width: 50%;
+    }
+
+    button:hover {
+        background-color: #008080;
+    }
+    textarea{
+        margin-left: 48px;
+        width: 88%;
+        height:15%;
+    }
+.message{
+    margin-left: 48px;
+}
+.message-review{
+    height: 30%;
+    background-color: grey;
+    border-radius: 15px;
+    border-bottom: 1px solid #64d2c5;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+.quiz{
+
+        display: flex;
+        align-items: flex-start;
+        gap: 10px;
+        background-color: aqua;
+
+}
+.quiz p{
+    text-align: start;
+}
+.ico{
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+    align-self: flex-start;
+}
+
+
+.location{
+    height: 580px;
+    background-color:transparent;
+    justify-content: center;
+    align-items:start;
+    display: flex;
+    column-gap: 70px;
+    padding-top: 70px;
+
+
+}
+ .map{
+    height: 450px;
+    background-color: #4db2b0;
+    width: 700px;
+ }
+ .direction {
+    height: 350px;
+    width: 450px;
+    background-color:rgba(122,128,170,1);
+    margin-top: 40px;
+    text-align: center;
+ }
+ .direction p{
+    text-align: center;
+    font-size: 20px;
+    display: unset;
+    font-weight: bold;
+    text-shadow: rgba(0, 0, 0, 0.4) 0px 0px 15px; 
+    color: rgb(255, 255, 255);
+    padding-left: 15px;  
+
+ }
+ .social{
+    height: 200px;
+    background-color:transparent;
+    align-items: center;
+    display: block;
+    justify-content: center;
+
+ }
+ .top-social {
+
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    background-color:transparent;
+    width: 80%;
+    margin-left:150px;
+ }
+ .top-social img{
+    height: 100%;
+    width: 40%;
+    align-items: center;
+    justify-content: center;
+    margin-left:400px;
+ }
+ .top-social img:hover{
+    transform: scale(1.1);
+
+ }
+ .bottom-social{
+    height: 100px;
+    background-color:transparent;
+    align-items: center;
+    width: 80%;
+    margin-left: 150px;
+    border-bottom: 2px solid grey;
+    justify-content: center;
+
+
+ }
+ .bottom-social img{
+    height: 40px;
+    width: 40px;
+ }
+ .footer{
+    height: 700px;
+    background-color:transparent;
+    justify-content: center;
+    display: flex;
+ }
+ .footer-child{
+    height: 80%;
+    background-color:transparent;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    column-gap: 5px;
+    width: 90%;
+    margin-left: 100px;
+ }
+ .inner-footer{
+    height: 80%;
+    width: 80%;
+    background-color:transparent;
+    justify-content: center;
+ }
+ .footer-list{
+list-style-type: none;
+font-family:'montserrat',sans-serif;
+display: flex;
+row-gap: 20px;
+flex-direction: column;
+ }
+.icons{
+    height: 700px;
+    background-color: orangered;
+    padding-top: 30px;
+    margin-top: 10px;
+ 
+}
+.icons-div{
+    height: 200px;
+    background-color: pink;
+    display: flex;
+}
+.icons-div p{
+    text-align: start;
+    font-size: 22px;
+
+
+}
+.icons-div1{
+    height: 300px;
+    background-color: orchid;
+    
+}
+.phone, .email {
+  width: 200px; /* Adjust the width as needed */
+ padding: 10px;
+border: 1px solid #ccc;
+border-radius: 8px;
+}
+.contact-info {
+ display: flex;
+ gap: 20px;
+        }
+     
+.last{
+    display: flex;
+    justify-content:space-around;
+    gap: 20px;
+    font-size: 12px;
+    background-color: #e3e3e3;
+}
+.last-list{
+    list-style-type: none;
+    font-family:'montserrat',sans-serif;
+    display: flex;
+    gap: 10px;
+    padding-top: 12px;
+    
+}
+.inner-last{
+    padding-top: 12px;
+}
+.development{
+    padding-top: 12px;
+}
+.wave-svg {
+        bottom: 0;
+        left:0;
+        width: 100%;
+        position: absolute;
+        
+    }
+
+#all{
+    position:fixed;
+    height: auto;
+    width:100%;
+    z-index: 1;
+}
+.scroll-animation {
+opacity:0 ;
+transform: translateX(0);
+
+}
+setction{
+    transform: translateX(-50px);
+    transition: all 0.1ms ease-in-out;
+    transition-delay: 0.1ms;
+    opacity: 0;
+
+
+}
